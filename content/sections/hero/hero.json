@@ -1,0 +1,20 @@
+{
+  "intro": "Hi!",
+  "heroPhoto": {
+    "src": "../../images/playing_guitar.jpg",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Gabe",
+  "subtitle": {
+    "prefix": "Engineer by day, musician by night."
+  },
+  "description": "Hi! I'm Gabriel Alvarado, a tech head who loves everything computer-related and a music nerd who won't shut up about weird time signatures!",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}

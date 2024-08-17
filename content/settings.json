@@ -1,0 +1,35 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://dantepon.com/",
+    "title": "Dantepon",
+    "titleTemplate": "%s · Dantepon",
+    "description": "Blog about music and tech from Gabriel Alvarado",
+    "author": "Gabriel Alvarado",
+    "avatar": "../content/images/playing_guitar.jpg",
+    "bio": "Cloud engineer and musician based in Costa Rica, passionate about teaching and analyzing complicated music.",
+    "social": {
+      "github": "https://github.com/gabrielalvmart",
+      "linkedin": "https://www.linkedin.com/in/gabrielalvmart/",
+      "mail": "mailto:gabriel.alvmart@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Dantepon" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" }
+      ],
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": true,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
