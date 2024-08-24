@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://dantepon.com/",
+    "siteUrl": "https://dantepon.vercel.app/",
     "title": "Dantepon",
     "titleTemplate": "%s · Dantepon",
     "description": "Blog about music and tech from Gabriel Alvarado",

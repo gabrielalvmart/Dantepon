@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/dantepon",
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
